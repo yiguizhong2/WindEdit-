@@ -38,3 +38,6 @@ See [Intro Videos](https://kingtoolbox.github.io/)
 - Multilines edit.
 - Search and replace in folders.
 - High performance.
+
+下载地址：https://886121.xyz          打开网站选择：123云盘/pc工具
+
